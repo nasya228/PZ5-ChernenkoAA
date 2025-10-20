@@ -1,4 +1,4 @@
 def check_password(password):
-    if password == "12345":  
+    if len(password) >= 8: 
         return True
     return False
