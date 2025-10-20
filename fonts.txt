@@ -1,1 +1,7 @@
 Основной шрифт: Roboto
+Fallback-шрифты:
+- Arial
+- Sans-serif
+Размеры:
+- Заголовок: 24px
+- Текст: 16px
